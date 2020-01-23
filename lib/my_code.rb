@@ -6,4 +6,5 @@ i = 0
     new.push(yeild(array[i]))
     i += 1
   end
+  new
 end
