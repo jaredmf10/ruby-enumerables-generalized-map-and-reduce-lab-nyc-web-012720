@@ -8,3 +8,9 @@ i = 0
   end
   new
 end
+
+def reduce(array)
+new = []
+i = 0
+
+end
